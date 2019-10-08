@@ -12,16 +12,16 @@ Goals :
 
 - Privet Key
 
-  ![alt text](https://github.com/bitcoin-multisig/blob/master/2.png)
+  ![alt text](https://github.com/Bibi10/bitcoin-multisig/blob/master/2.png)
 
-- Publique Adress
+- Public Adress
 
-  ![alt text](https://github.com/bitcoin-multisig/blob/master/3.png)
-  ![alt text](https://github.com/Bibi10/blob/master/4.png)
+  ![alt text](https://github.com/Bibi10/bitcoin-multisig/blob/master/3.png)
+  ![alt text](https://github.com/Bibi10/bitcoin-multisig/blob/master/4.png)
 
 - Multisgnature
 
-  ![alt text](https://github.com/bitcoin-multisig/blob/master/5.png)
+  ![alt text](https://github.com/Bibi10/bitcoin-multisig/blob/master/5.png)
 
 # TODO
 
