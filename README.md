@@ -8,20 +8,20 @@ Goals :
 
 - Environment Setup
 
-  ![alt text](https://github.com/Bibi10/1.png)
+  ![alt text](https://github.com/Bibi10/bitcoin-multisig/blob/master/1.png)
 
 - Privet Key
 
-  ![alt text](https://github.com/Bibi10/blob/master/2.png)
+  ![alt text](https://github.com/bitcoin-multisig/blob/master/2.png)
 
 - Publique Adress
 
-  ![alt text](https://github.com/Bibi10/master/3.png)
+  ![alt text](https://github.com/bitcoin-multisig/blob/master/3.png)
   ![alt text](https://github.com/Bibi10/blob/master/4.png)
 
 - Multisgnature
 
-  ![alt text](https://github.com/Bibi10/blob/master/5.png)
+  ![alt text](https://github.com/bitcoin-multisig/blob/master/5.png)
 
 # TODO
 
